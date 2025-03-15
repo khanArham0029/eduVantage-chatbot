@@ -1,0 +1,1009 @@
+Skip to main content
+Home
+Home
+Admissions
+Undergraduate
+Graduate
+Continuing education
+Research
+Engage with us
+Support for researchers
+Using research to engage
+Recognition
+News & Events
+Events
+Features
+Oxford profiles
+Oxford and coronavirus
+Filming in Oxford
+Find An Expert
+About
+Organisation
+Vice-Chancellor
+Facts and figures
+Oxford people
+Oxford Access
+International Oxford
+Building Our Future
+Jobs
+牛津大学
+Search
+Graduate
+Student life
+Why study at Oxford?
+Ways to study at Oxford
+Careers and alumni
+About the city
+Sport, arts and societies
+Welfare and support
+Families and childcare
+Courses
+Choosing a course
+A-Z of courses
+Courses accepting applications
+Courses by department and division
+Open days and events
+Changes to courses
+Colleges
+What is an Oxford college?
+Choosing a college
+College listing
+Fees and funding
+Oxford funding
+External funding
+Loans
+Fees and other charges
+Living costs
+Financial Declaration
+Fees, funding and scholarship search
+International
+Our international community
+Advice for international applicants
+International qualifications
+English language requirements
+Visas and immigration
+Applying
+Where do I start?
+Should I apply?
+How-to guides
+Application Guide
+Disabled applicants
+Information for referees
+Initiatives to improve access to graduate study
+Visiting and Recognised Student form guidance
+University policies
+After you apply
+Assessing your application
+Decision timeline
+Funding decisions and college membership
+Applicant Self-Service Guide
+Your offer and contract
+Accommodation
+Arriving
+Applicant surveys
+Graduate access
+Apply to be a UNIQ+ Coordinator
+UNIQ+
+Academic futures
+Scholarships and funding for under-represented groups
+Close the Gap
+Graduate access policies
+Microscope study in the laboratory
+(Image Credit: Zachary Domach / Graduate Photography Competition)
+Last updated
+12 Mar 2025
+Share This
+Tweet
+Share on Facebook
+Share on LinkedIn
+Share on Reddit
+<!--//--><![CDATA[// ><!--
+(function ($) {
+  var fblink = $('#custom-fb-button a').attr('href'); 
+  $('#custom-fb-button a').attr('href', fblink + '?u=' + encodeURIComponent(location.href));
+  var linkedinlink = $('#custom-linkedin-button a').attr('href'); 
+  $('#custom-linkedin-button a').attr('href', linkedinlink + '&url=' + encodeURIComponent(location.href) + '&title=' + encodeURIComponent(document.title));
+}(jQuery));
+//--><!]]>
+Home
+Admissions
+Graduate
+Courses
+DPhil in Medical Sciences
+DPhil in Medical Sciences
+About
+Entry requirements
+Department
+Funding and Costs
+College preference
+How to Apply
+About the course
+Based in the Radcliffe Department of Medicine (RDM), this DPhil research programme is aimed at basic scientists and clinicians with an interest in pursuing research in a scientific field related to medicine, particularly in cardiovascular medicine, diabetes, endocrinology and metabolism, epidemiology and clinical trials, haematology and pathology, immunology, regenerative medicine and stem cells, and acute stroke.
+You will be admitted directly onto a research project with one of RDM’s world-leading scientists, who will act as your supervisor. In most cases, students choose a project from our advertised project list, but in some cases, students design their own project in collaboration with their proposed supervisor. In either case, you will be expected to play an active role in shaping your project over the course of the DPhil. Graduate students are a valuable part of the department and they are encouraged to be involved with the scientific and social life of the department at all levels.
+Your project and development during your DPhil studies will be guided by a specialised team led by your academic supervisor.
+Your training will be tailored to your particular needs, drawing from the vast range of training available at Oxford and covering both specialist scientific methods and techniques and transferable skills. Please note that there is no formal taught component of the DPhil in Medical Sciences.
+Much of your training will take place in the lab, where you will be trained by your supervisor or members of the lab team in the variety of techniques and protocols used. A brief statement of the training you will receive in the lab is included in the training description of your
+chosen project
+.
+As a member of the Medical Sciences Graduate School you will be entitled to enrol on courses run by the
+Medical Sciences Skills Training
+programme. You will be able to attend the wide variety of sessions covered through the MRC Weatherall Institute of Molecular Medicine (WIMM) Methods and Techniques course.
+Attendance
+The course can be studied full-time or part-time with both modes requiring attendance in Oxford. Full-time students are subject to the
+University's Residence requirements.
+Part-time students are required to attend course-related activities in Oxford for a minimum of 30 days each year.
+Completing the DPhil on a part-time basis has the same requirements as the full-time DPhil and normally takes between six and eight years of study, compared with a full-time DPhil which normally takes three to four years to complete.
+Part-time study is not suitable for all projects and you will need to check with your supervisor that they are able to accommodate part-time study.
+As a part-time student, attendance is to be arranged with the agreement of your supervisor, for the period that your name remains on the Register of Graduate Students unless individually dispensed by the Board. During a candidate’s probationary period the attendance arrangements must take account of relevant induction and training events scheduled by the Board. You will have the opportunity to tailor your part-time research in liaison with your supervisor and agree your pattern of attendance.
+Provision exists for students on some courses to undertake their research in a ‘well-founded laboratory’ outside of the University. This may require travel to and attendance at a site that is not located in Oxford. Where known, existing collaborations will be outlined on this page. Please read the course information carefully, including the additional information about course fees and costs.
+Resources to support your study
+As a graduate student, you will have access to the University's
+wide range of world-class resources
+including libraries, museums, galleries, digital resources and IT services.
+The Bodleian Libraries is the largest library system in the UK. It includes the main Bodleian Library and libraries across Oxford, including major research libraries and faculty, department and institute libraries. Together, the Libraries hold more than 13 million printed items, provide access to e-journals, and contain outstanding special collections including rare books and manuscripts, classical papyri, maps, music, art and printed ephemera.
+The University's IT Services is available to all students to support with core university IT systems and tools, as well as many other services and facilities. IT Services also offers a range of IT learning courses for students, to support with learning and research.
+You will be allocated space within your supervisor's lab. Radcliffe Department of Medicine (RDM) has state-of-the-art research facilities across the spectrum of our research expertise and where specialist facilities do not exist within RDM itself it is usually possible to use facilities elsewhere in Oxford.
+RDM provides students with the facilities, support and career development opportunities needed to thrive. The department recognizes the importance of a good work-life balance and has developed
+policies and support mechanisms
+to help staff and students find the right balance for them.
+The RDM Career Development Committee organises an annual Career Day at which RDM alumni and other speakers look at different career paths that can be taken after your DPhil. There is also an
+RDM Researcher Association
+which aims to enrich the RDM researcher experience through social events, career development and advice. They liaise with the RDM Career Development Committee to address any concerns and suggestions raised by RDM researchers.
+RDM’s
+mentoring scheme
+is open to all students and staff and aims to assist them in achieving personal and professional growth through a mentorship relationship that provides support as they progress and develop within the University.
+The department has a Student Forum comprised of a number of student representatives from across RDM. It meets termly to discuss any concerns students may have and to provide feedback on the various aspects of life as an RDM student. Two members of the forum also sit on the Graduate Studies Committee. They act as the point of contact for students and ensure that any concerns amongst students can be heard by the department and acted upon.
+Supervision
+The allocation of graduate supervision for this course is the responsibility of the Radcliffe Department of Medicine and it is not always possible to accommodate the preferences of incoming graduate students to work with a particular member of staff. Under exceptional circumstances a supervisor may be found outside the Radcliffe Department of Medicine.
+As well as your academic supervisor, students also have one or more formal co-supervisors, who can provide additional scientific and/or practical advice in their specialist areas and offer another viewpoint on the student’s project. Together, they form the specialised team that will advise you on your academic progress. Typically, you should expect to have meetings with your supervisor or a member of the supervisory team with a frequency of once every two weeks averaged across the year. The regularity of these meetings may be subject to variations according to the time of the year, and the stage you are at in your research.
+You will also have the support of a local Director of Graduate Studies, the RDM Director of Graduate Studies and the Graduate Studies Manager. All activity relating to graduate students within the department is overseen by the Graduate Studies Committee.
+Assessment
+All students will be initially admitted to the status of Probationer Research Student (PRS). Within a maximum of six terms as a full-time PRS student or twelve terms as a part-time PRS student, you will be expected to apply for transfer of status from Probationer Research Student to DPhil status. This application is normally made by the fourth term for full-time students and by the eighth term for part-time students.
+A successful transfer of status from PRS to DPhil status will require a written report outlining your project plans and data obtained so far. Students who are successful at transfer will also be expected to apply for and gain confirmation of DPhil status to show that your work continues to be on track. This will need to be done within nine terms of admission for full-time students and eighteen terms of admission for part-time students.
+Both milestones normally involve an interview with two assessors who are not directly involved in your supervision and therefore provide important experience for the final oral examination.
+Full-time students will be expected to submit an original thesis of 50,000 words after three or, at most, four years from the date of admission. If you are studying part-time, you will be required to submit your thesis after six or, at most, eight years from the date of admission. To be successfully awarded a DPhil in Medical Sciences you will need to defend your thesis orally (viva voce) in front of two appointed examiners.
+Graduate destinations
+Recent graduates from the DPhil in Medical Sciences have gone on to take up postdoctoral research opportunities within universities and in the pharmaceutical industry. Graduates with previous medical training have continued their clinician- scientist careers both within the University of Oxford and elsewhere. You can ready more about the career paths of former students on the
+RDM website
+.
+Changes to this course and your supervision
+The University will seek to deliver this course in accordance with the description set out in this course page. However, there may be situations in which it is desirable or necessary for the University to make changes in course provision, either before or after registration. The safety of students, staff and visitors is paramount and major changes to delivery or services may have to be made if a pandemic, epidemic or local health emergency occurs. In addition, in certain circumstances, for example due to visa difficulties or because the health needs of students cannot be met, it may be necessary to make adjustments to course requirements for international study.
+Where possible your academic supervisor will not change for the duration of your course. However, it may be necessary to assign a new academic supervisor during the course of study or before registration for reasons which might include illness, sabbatical leave, parental leave or change in employment.
+For further information please see our page on
+changes to courses
+and the
+provisions of the student contract
+regarding changes to courses.
+Entry requirements for entry in 2025-26
+Proven and potential academic excellence
+The requirements described below are specific to this course and apply only in the year of entry that is shown. You can use our interactive tool to help you
+evaluate whether your application is likely to be competitive
+.
+We know that factors such as socio-economic circumstances and school performance can make it difficult for students to demonstrate their full potential. This course is taking part in an initiative to use contextual data to help us to better understand your achievements in the context of your individual background. For further details, please refer to the information about improving access to graduate study in the
+How to apply
+section of this page.
+Please be aware that any studentships that are linked to this course may have different or additional requirements and you should read any studentship information carefully before applying. Contextual data may also be used in the assessment of studentships.
+Degree-level qualifications
+As a minimum, applicants should hold or be predicted to achieve the following UK qualifications or their equivalent:
+a first-class or strong upper second-class undergraduate degree with honours
+in a biomedical or science subject relevant to the project for which you are applying.
+However, entrance is very competitive and most successful applicants have a first-class degree or the equivalent.
+For applicants with a degree from the USA, the minimum overall GPA that is normally required to meet the undergraduate-level requirement is 3.5 out of 4.0. However, most successful applicants have a GPA of 3.7 or the equivalent.
+If your degree is not from the UK or another country specified above, visit our International Qualifications page for
+guidance on the qualifications and grades
+that would usually be considered to meet the University’s minimum entry requirements.
+GRE General Test scores
+No Graduate Record Examination (GRE) or GMAT scores are sought.
+Other qualifications, evidence of excellence and relevant experience
+Applicants are normally expected to have research experience in a biomedical or scientific field. Examples of suitable research experience include, but are not limited to, research projects carried out during previous degree-level study, research internships or work experience as a research assistant.
+Evidence of a prior interest in the specific area of research proposed is likely to advantage a candidate’s application.
+You are expected to be familiar with the recent published work of your proposed supervisor.
+Applicants are not required to have publications, but it will strengthen your application if you have already published your work in a peer-reviewed scientific journal. Please include details of any publications (including a DOI) in your application.
+English language proficiency
+This course requires proficiency in English at the University's
+standard level
+. If your first language is not English, you may need to provide evidence that you meet this requirement. The minimum scores required to meet the University's standard level are detailed in the table below.
+Minimum scores required to meet the University's standard level requirement
+Test
+Minimum overall score
+Minimum score per component
+IELTS Academic (Institution code: 0713)
+7.0
+6.5
+TOEFL iBT, including the 'Home Edition'
+(Institution code: 0490)
+100
+Listening: 22
+Reading: 24
+Speaking: 25
+Writing: 24
+C1 Advanced*
+185
+176
+C2 Proficiency
+†
+185
+176
+*Previously known as the Cambridge Certificate of Advanced English or Cambridge English: Advanced (CAE)
+†
+Previously known as the Cambridge Certificate of Proficiency in English or Cambridge English: Proficiency (CPE)
+Your test must have been taken no more than two years before the start date of your course. Our Application Guide provides
+further information about the English language test requirement
+.
+For specific projects the
+higher level
+of the University's English language requirement
+may be required - for example, if you will be working on a clinical project involving patient contact.
+Declaring extenuating circumstances
+If your ability to meet the entry requirements has been affected by the COVID-19 pandemic (eg you were awarded an unclassified/ungraded degree) or any other exceptional personal circumstance (eg other illness or bereavement), please refer to the
+guidance on extenuating circumstances
+in the Application Guide for information about how to declare this so that your application can be considered appropriately.
+References
+You will need to register three referees who can give an informed view of your academic ability and suitability for the course. The
+How to apply
+section of this page provides details of the types of reference that are required in support of your application for this course and how these will be assessed.
+Supporting documents
+You will be required to supply supporting documents with your application. The
+How to apply
+section of this page provides details of the supporting documents that are required as part of your application for this course and how these will be assessed.
+Performance at interview
+Interviews for shortlisted candidates are normally held as part of the admissions process.
+There will be a minimum of three academics on the interview panel. For the
+RDM Scholars Programme
+or the
+WIMM Prize Studentship
+, interview dates are advertised on the appropriate website. For all other applications you will be contacted to arrange a date for interview. Details of the interview format will be provided to you after shortlisting.
+Offer conditions for successful applications
+If you receive an offer of a place at Oxford, your offer will outline any conditions that you need to satisfy and any actions you need to take, together with any associated deadlines. These may include academic conditions, such as achieving a specific final grade in your current degree course. These conditions will usually depend on your individual academic circumstances and may vary between applicants. Our '
+After you apply
+' pages provide
+more information about offers and conditions
+.
+In addition to any academic conditions which are set, you will also be required to meet the following requirements:
+Financial Declaration
+If you are offered a place, you will be required to complete a
+Financial Declaration
+in order to meet your financial condition of admission.
+Disclosure of criminal convictions
+In accordance with the University’s obligations towards students and staff, we will ask you to declare any
+relevant, unspent criminal convictions
+before you can take up a place at Oxford.
+Evidence of ability to study for employed part-time applicants
+If you are applying for part-time study and are currently employed, you may be asked to provide evidence that your employment will not affect your ability to study and that you can commit sufficient time to fulfil all elements outlined in the course description. You may be asked to provide details about your pattern of employment and obtain a statement from your employer confirming their commitment to make time available for you to study, to complete coursework, and attend course and University events and modules.
+Permission to use data obtained through your employment
+If you are embarking on study with the support of your employer and intend to use data obtained through your employment, evidence should be provided of permission to use your employers’ data in your proposed research project.
+Other factors governing whether places can be offered
+The following factors will also govern whether candidates can be offered places:
+the ability of the University to provide the appropriate supervision for your studies, as outlined under the 'Supervision' heading in the About section of this page;
+the ability of the University to provide appropriate support for your studies (eg through the provision of facilities, resources, teaching and/or research opportunities); and
+minimum and maximum limits to the numbers of students who may be admitted to the University's taught and research programmes.
+Radcliffe Department of Medicine
+The Radcliffe Department of Medicine (RDM) is a large multi-disciplinary department with internationally renowned research programmes in a broad range of sciences related to medicine.
+Research spans the translational research spectrum, from basic biological research through to clinical application. The RDM is committed to training the next generation of scientists in biological and clinical sciences.
+The department offers one DPhil (Doctor of Philosophy) degree, which is the University of Oxford equivalent to a PhD. The DPhil in Medical Sciences covers all areas of RDM research. In keeping with the department’s focus on translational research, applications are welcomed from both basic scientists and clinicians for this programme.
+The department has a community of around 150 students, the vast majority of whom are studying for a DPhil. A DPhil typically lasts three to four years, depending on the project and the student. The department has considerable experience supervising clinicians who hold three-year fellowships and tailors research projects for such students accordingly.
+The department has a staff complement of over 650 people, and an annual research income of around £55 million.
+View all courses
+View taught courses
+View research courses
+Funding
+For entry in the 2025-26 academic year, the collegiate University expects to offer over 1,000 full or partial graduate scholarships across a wide range of graduate courses.
+If you apply by the December deadline shown on this page and receive a course offer, your application will then be considered for Oxford scholarships. For the majority of Oxford scholarships, your application will automatically be assessed against the eligibility criteria, without needing to make a separate application. There are further Oxford scholarships available which have additional eligibility criteria and where you are required to submit a separate application. Most scholarships are awarded on the basis of academic merit and/or potential.
+To ensure that you are considered for Oxford scholarships that require a separate application, for which you may be eligible,
+use our fees, funding and scholarship search tool
+to identify these opportunities and find out how to apply. Alongside Oxford scholarships, you should also consider other opportunities for which you may be eligible including
+a range of external funding
+,
+loan schemes for postgraduate study
+and any other scholarships which may also still be available after the December deadline as listed on
+our fees, funding and scholarship search tool
+.
+Details of college-specific funding opportunities can also be found on individual college websites:
+Select from the list:
+- Select a college -
+Balliol College
+Blackfriars
+Brasenose College
+Campion Hall
+Christ Church
+Corpus Christi College
+Exeter College
+Green Templeton College
+Harris Manchester College
+Hertford College
+Jesus College
+Keble College
+Kellogg College
+Lady Margaret Hall
+Linacre College
+Lincoln College
+Magdalen College
+Mansfield College
+Merton College
+New College
+Nuffield College
+Oriel College
+Pembroke College
+The Queen's College
+Regent's Park College
+Reuben College
+Somerville College
+St Anne's College
+St Antony's College
+St Catherine's College
+St Cross College
+St Edmund Hall
+St Hilda's College
+St Hugh's College
+St John's College
+St Peter's College
+Trinity College
+University College
+Wadham College
+Wolfson College
+Worcester College
+Wycliffe Hall
+Please refer to the
+College preference
+section of this page to identify which of the colleges listed above accept students for this course.
+For the majority of college scholarships, it doesn’t matter which college, if any, you state a preference for in your application. If another college is able to offer you a scholarship, your application can be moved to that college if you accept the scholarship. Some college scholarships may require you to state a preference for that college when you apply, so check the eligibility requirements carefully.
+Further information about funding opportunities
+for this course can be found on the department's website.
+Costs
+Annual fees for entry in 2025-26
+Full-time study
+Fee status
+Annual Course fees
+Home
+£10,070
+Overseas
+£33,370
+Part-time study
+Fee status
+Annual Course fees
+Home
+£5,035
+Overseas
+£16,685
+How long do I need to pay course fees?
+Course fees are payable each year, for the duration of your
+fee liability
+(your fee liability is the length of time for which you are required to pay course fees). For courses lasting longer than one year, please be aware that fees will usually increase annually. For details, please see our
+guidance on changes to fees and charges
+.
+What do course fees cover?
+Course fees cover your teaching as well as other academic services and facilities provided to support your studies. Unless specified in the additional information section below, course fees do not cover your accommodation, residential costs or other living costs. They also don’t cover any additional costs and charges that are outlined in the additional information section below.
+Continuation charges
+Following the
+period of fee liability
+, you may also be required to pay a University continuation charge and a college continuation charge. The University and college continuation charges are shown on the
+Continuation charges
+page.
+Where can I find further information about fees?
+The
+Fees and Funding
+section
+of this website provides
+further information about course fees
+, including
+information about fee status and eligibility
+and
+your length of fee liability
+.
+Additional information
+Full-time study
+There are no compulsory elements of this course that entail additional costs beyond fees (or, after fee liability ends, continuation charges) and living costs. However, please note that, depending on your choice of research topic and the research required to complete it, you may incur additional expenses, such as travel expenses, research expenses, and field trips. You will need to meet these additional costs, although you may be able to apply for small grants from your department and/or college to help you cover some of these expenses.
+Part-time study
+Please note that you are required to attend in Oxford for a minimum of 30 days each year, and you may incur additional travel and accommodation expenses for this. Also, depending on your choice of research topic and the research required to complete it, you may incur further additional expenses, such as travel expenses, research expenses, and field trips. You will need to meet these additional costs, although you may be able to apply for small grants from your department and/or college to help you cover some of these expenses.
+Living costs
+In addition to your course fees and any additional course-specific costs, you will need to ensure that you have adequate funds to support your living costs for the duration of your course.
+Living costs for full-time study
+For the 2025-26 academic year, the range of likely living costs for a single, full-time student is between £1,425 and £2,035 for each month spent in Oxford. We provide the cost per month so you can multiply up by the number of months you expect to live in Oxford. Depending on your circumstances, you may also need to budget for the
+costs of a student visa and immigration health surcharge
+and/or
+living costs for family members or other dependants
+that you plan to bring with you to Oxford (assuming that
+dependant visa eligibility criteria
+are met).
+Living costs for part-time study
+Your living costs may vary depending on your personal circumstances but you will still need to cover your cost of living on a full-time basis for the duration of your course, even if you will not be based in Oxford throughout your studies. While the range of likely living costs for a single, full-time student living in Oxford is between £1,425 and £2,035 per month, living costs outside Oxford may be different.
+Part-time students who are not based in Oxford will need to calculate travel and accommodation costs carefully. Depending on your circumstances and study plans, this may include the
+cost of a visitor visa to attend for short blocks of time
+(assuming that
+visitor visa eligibility criteria
+are met).
+Further information about living costs
+The current economic climate and high national rate of inflation make it very hard to estimate potential changes to the cost of living over the next few years. For study in Oxford beyond the 2025-26 academic year, it is suggested that you budget for potential increases in living expenses of around 4% each year – although this rate may vary depending on the national economic situation. For further information, please consult our
+more detailed information about living costs
+, which includes a
+breakdown of likely living costs
+in Oxford for items such as food, accommodation and study costs.
+College preference
+Students enrolled on this course will belong to both a department/faculty and a college. Please note that ‘college’ and ‘colleges’ refers to all 43 of the University’s colleges, including those designated as societies and permanent private halls (PPHs).
+If you apply for a place on this course you will have the option to express a preference for one of the colleges listed below, or you can ask us to find a college for you. Before deciding, we suggest that you read our brief
+introduction to the college system at Oxford
+and our
+advice about expressing a college preference
+.
+If you are a current Oxford student and you would like to remain at your current Oxford college, you should check whether it is listed below. If it is, you should indicate this preference when you apply. If not, you should contact your college office to ask whether they would be willing to make an exception.
+Further information about staying at your current college
+can be found in our Application Guide.
+Full-time study
+The following colleges accept students for full-time study on this course:
+Balliol College
+Brasenose College
+Christ Church
+Corpus Christi College
+Exeter College
+Green Templeton College
+Harris Manchester College
+Hertford College
+Jesus College
+Keble College
+Kellogg College
+Lady Margaret Hall
+Linacre College
+Lincoln College
+Magdalen College
+Merton College
+New College
+Oriel College
+Pembroke College
+The Queen's College
+Reuben College
+St Anne's College
+St Catherine's College
+St Cross College
+St Edmund Hall
+St Hilda's College
+St Hugh's College
+St John's College
+St Peter's College
+Somerville College
+Trinity College
+University College
+Wadham College
+Wolfson College
+Worcester College
+Wycliffe Hall
+Part-time study
+The following colleges accept students for part-time study on this course:
+Balliol College
+Brasenose College
+Christ Church
+Exeter College
+Green Templeton College
+Harris Manchester College
+Jesus College
+Keble College
+Lady Margaret Hall
+Linacre College
+Oriel College
+Pembroke College
+St Anne's College
+St Catherine's College
+St Edmund Hall
+St Hilda's College
+Somerville College
+Trinity College
+University College
+Wadham College
+Wolfson College
+Worcester College
+Before you apply
+Before you begin an application, we recommend that you consult the Medical Sciences Graduate School's website to
+identify the most suitable course
+for your intended area of research.
+Our
+guide to getting started
+provides general advice on how to prepare for and start your application.  You can use our interactive tool to help you
+evaluate whether your application is likely to be competitive
+.
+If it is important for you to have your application considered under a particular deadline – eg under the December deadline in order to be considered for Oxford scholarships –
+we recommend that you aim to complete and submit your application at least two weeks in advance
+. Check the deadlines on this page and the
+information about deadlines and when to apply
+in our Application Guide.
+Application fee waivers
+An application fee of £20 is payable for each application to this course. Application fee waivers are available for the following applicants who meet the eligibility criteria:
+applicants from low-income countries;
+refugees and displaced persons;
+UK applicants from low-income backgrounds; and
+applicants who applied for our Graduate Access Programmes in the past two years and met the eligibility criteria.
+You are encouraged to
+check whether you're eligible for an application fee waiver
+before you apply.
+Readmission for current Oxford graduate taught students
+If you're currently studying for an Oxford graduate taught course and apply to this course with no break in your studies, you may be eligible to apply to this course as a readmission applicant. The application fee will be waived for an eligible application of this type.
+Check whether you're eligible to apply for readmission
+.
+Application fee waivers for eligible associated courses
+If you apply to this course and are considering applying (or have already applied) to any of the
+associated courses listed below
+, you can request an application fee waiver so that you only need to pay one application fee. We recommend that you use your application fee waiver to apply only for eligible courses that are
+closely related in research area
+to this one.
+For full details about how to request an application fee waiver, please select the course you are interested in from the list below and refer to the equivalent section of its course page.
+The following associated courses are taking part in this application fee waiver scheme:
+Autonomous Intelligent Machines and Systems
+, EPSRC CDT
+Biomedical and Clinical Sciences (Oxford-GSK)
+, DPhil
+Cancer Science (Biological background)
+, CDT
+Cancer Science (Clinician)
+, DPhil
+Cancer Science (Intercalation)
+, DPhil
+Cancer Science (Maths/Physics background)
+, CDT
+Chemical Synthesis for a Healthy Planet
+, CDT
+Engineering Biology
+, BBSRC and EPSRC CDT
+Fundamentals of AI
+, EIT CDT
+Fusion Power
+, EPSRC CDT
+Genomic Medicine and Statistics
+, DPhil
+Healthcare Data Science
+, EPSRC CDT
+Inflammatory and Musculoskeletal Disease
+, DPhil
+Inorganic Materials for Advanced Manufacturing
+, EPSRC CDT
+Intelligent Earth
+, UKRI CDT in AI for the Environment
+Interdisciplinary Life and Environmental Science
+, DPhil
+Materials 4.0
+, EPSRC CDT
+Mathematics of Random Systems: Analysis, Modelling and Algorithms
+, CDT
+Neuroscience (1+3)
+, DPhil
+Quantum Informatics, EPSRC CDT
+(expected to open in
+early-2025
+)
+Robotics and AI for Net Zero
+, EPSRC CDT
+Statistics and Machine Learning
+, EPSRC CDT
+Superconductivity: Enabling Transformative Technologies
+, EPSRC CDT
+Do I need to contact anyone before I apply?
+Before you apply, you should contact a prospective supervisor to discuss the research opportunities available using the form available on the
+Radcliffe Department of Medicine
+website.
+Improving access to graduate study
+This course is taking part in initiatives to improve the selection procedure for graduate applications, to ensure that all candidates are evaluated fairly.
+Socio-economic data (where it has been provided in the application form) will be used as part of an
+initiative to contextualise applications
+at the different stages of the selection process.
+Completing your application
+You should refer to the information below when completing the application form,
+paying attention to the specific requirements for the supporting documents
+.
+For this course, the application form will include questions that collect information that would usually be included in a CV/résumé. You should not upload a separate document. If a separate CV/résumé is uploaded,
+it will be removed from your application
+.
+If any document does not meet the specification, including the stipulated word count, your application may be considered incomplete and not assessed by the academic department. Expand each section to show further details.
+Proposed field and title of research project
+Please leave 'Field and title of research project' blank on the 'Course' tab of the application form.
+You should not use this field to type out a research proposal. The Radcliffe Department of Medicine does not require you to provide a separate research proposal.
+Proposed supervisor
+Under 'Proposed supervisor name' enter the supervisor(s) you are applying to, listing them in order or indicating equal preference. You are strongly encouraged to list more than one potential supervisor, to a maximum of three, to increase the possibility of placing you with one of your preferred supervisors if you are successful in your application.
+Referees
+Three overall, academic preferred
+Whilst you must register three referees, the department may start the assessment of your application if two of the three references are submitted by the course deadline and your application is otherwise complete. Please note that you may still be required to ensure your third referee supplies a reference for consideration.
+One of your referees should be from your undergraduate degree and one should be from your most recent or current masters degree. Although your references should generally be academic, you may provide up to one relevant professional reference – for example, a reference from an industrial placement.
+Your references should support intellectual ability, academic achievement, motivation, and ability to work in a group.
+Official transcript(s)
+Your transcripts should give detailed information of the individual grades received in your university-level qualifications to date. You should only upload official documents issued by your institution and any transcript not in English should be accompanied by a certified translation.
+More information about the transcript requirement
+is available in the Application Guide.
+Statement of purpose/personal statement:
+A maximum of 500 words
+Please begin by listing the names of the supervisors to whom you are applying.
+You should provide a statement of your research interests, in English, describing how your background and research interests relate to the programme. If possible, please ensure that the word count is clearly displayed on the document.
+It will be normal for students’ ideas and goals to change in some ways as they undertake their studies, but your personal statement will enable you to demonstrate your current interests and aspirations.
+The statement should focus on academic or research-related achievements and interests rather than personal achievements and interests.
+This will be assessed for:
+your reasons for applying;
+evidence of motivation for and understanding of the proposed area of study;
+the ability to present a reasoned case in English;
+capacity for sustained and focused work; and
+understanding of problems in the area and ability to construct and defend an argument.
+If you are applying for part-time study, you should provide evidence of your ability to commit sufficient time to study and fulfil all elements outlined in the course description (eg completing coursework, assessments, and attending course and University events and modules).
+Please be advised that the department's website provides specific guidance on what to include in your personal statement if you are applying for the
+RDM Scholars Programme
+or the
+WIMM Prize Studentship
+.
+Start or continue your application
+You can start or return to an application using the relevant link below. As you complete the form, please
+refer to the requirements above
+and
+consult our Application Guide for advice
+.
+Apply - Full time
+Apply - Part time
+Continue application
+After you've submitted your application
+Your application (including the supporting documents outlined above) will be assessed against the entry requirements detailed on this course page. Whether or not you have secured funding will
+not
+be taken into consideration when your application is assessed. You can
+find out more about our shortlisting and selection process
+in our detailed guide to what happens next.
+Find out how to
+manage your application after submission
+, using our Applicant Self-Service tool.
+Was this page useful?
+*
+Yes
+No
+Please tell us what you want to see on this page, the more specific you can be the more likely it is that we can add it.
+ADMISSION STATUS
+Open - applications are still being accepted
+Up to a week's notice of closure will be provided on this page - no other notification will be given
+Deadlines
+12:00 midday UK time on:
+Tuesday 3 December 2024
+Latest deadline for most
+Oxford scholarships
+Applications may remain open after this deadline if places are still available
+- see below
+A later deadline under 'Admission status'
+If places are still available,
+applications may be accepted after 3 December
+. The
+Admission status
+(above) will provide notice of any later deadline.
+Key facts
+Full Time
+Part Time
+Course code
+RD_MD1
+RD_MD9P1
+Expected length
+3-4 years
+6-8 years
+Places in 2025-26
+c. 37 (combined for full and part time)
+Applications/year*
+223
+2
+Expected start
+1 October 2025
+English language
+Standard level required
+†
+*Three-year average (applications for entry in 2022-23 to 2024-25)
+†
+Higher level may be required for specific projects, see Entry Requirements for details
+Further information and enquiries
+This course is offered by the
+Radcliffe Department of Medicine
+Course page
+on the
+department's website
+Funding information
+from the department
+Supervisor profiles and potential projects
+Academic and research staff
+Departmental research
+Medical Sciences Graduate School
+Residence requirements for full-time courses
+Postgraduate applicant privacy policy
+Course-related enquiries
+Advice about contacting the department can be found in the
+How to apply
+section of this page
+✉
+[email protected]
+Application-process enquiries
+Application guide
+Visa eligibility for part-time study
+We are unable to sponsor
+student visas
+for part-time study on this course. Part-time students may be able to attend on a
+visitor visa
+for short blocks of time only (and leave after each visit) and will need to remain based outside the UK.
+<!--//--><![CDATA[// ><!--
+
+// Wait for document to finish loading before allowing the enclosed functions to run.
+jQuery(document).ready(function($) {
+
+// Start - Modify Admission Status block if Studentship Status blocks (375,340,356, 537, 538, 202) are displayed
+if ($('#block-block-375').length || $('#block-block-340').length || $('#block-block-537').length || $('#block-block-538').length ||  $('#block-block-356').length ) {
+// Select Admission Status heading and add an ID (this is needed to ensure the heading is not selected on the studentship status blocks)
+// OPEN
+$('#block-block-173 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-311 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-238 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+// OPEN-FIELD
+$('#block-block-470 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-472 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-473 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+// OPEN-REOPENED
+$('#block-block-196 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-137 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-334 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+// CLOSING
+$('#block-block-187 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-199 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-271 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+// CLOSED
+$('#block-block-259 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-264 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-243 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-268 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-261 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-265 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-452 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+// SPECIAL
+$('#block-block-372 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-323 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-345 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+$('#block-block-350 h2:contains("ADMISSION STATUS")').attr('class', 'adstatus-std');
+// Create container to add sub-heading (only for blocks listed above)
+$( '<span class="adm-stu-title">' ).insertAfter( ".adstatus-std" );
+// Append sub-heading
+$( ".adm-stu-title").append( "<h4>Non-studentship applications" );
+// Append sentence to Closed block that explains a studentship may still be available. 
+// $( "#block-block-259").append( "<p><strong>This course may still be accepting studentship applications - see below." );
+// $( "#block-block-264").append( "<p><strong>This course may still be accepting studentship applications - see below." );
+// $( "#block-block-243").append( "<p><strong>This course may still be accepting studentship applications - see below." );
+// $( "#block-block-268").append( "<p><strong>This course may still be accepting studentship applications - see below." );
+// $( "#block-block-261").append( "<p><strong>This course may still be accepting studentship applications - see below." );
+// $( "#block-block-265").append( "<p><strong>This course may still be accepting studentship applications - see below." );
+// Append college list disclaimer
+$( "#content-tab--5 div.tab-nav" ).before( "<p>Please note that not all colleges may accept studentship applications." );
+// End
+}
+// End of dynamic block control
+});
+
+//--><!]]>
+<!--//--><![CDATA[// ><!--
+
+// Wait for document to finish loading before allowing the enclosed functions to run
+jQuery(document).ready(function($){
+
+// -----FUNCTIONS-----
+
+// Define function which replaces All apply buttons with closed (no studentship) 
+function replace_allapply() {
+$('a.apply-button-ft').css('display','none');
+$('a.apply-button-pt').css('display','none');
+$('a.pilot-questionnaire').css('display','none');
+$('a.pilot-context').css('display','none');
+$('a.pilot-cv').css('display','none');
+$('a.apply-button-cont').css('display','none');
+ 
+// FT+PT, FT-only or PT-only course with a single stream
+ // replacement for contextual statement button
+$( '#context-container').append( '<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed to applications' );
+ // replacement for cv button
+$( '#cv-container').append( '<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed to applications' );
+ // replacement for rare questionnaire button
+$( '#rarecontainer').append( '<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed to applications' );
+ // replacement for standard apply button
+$( '#applycontainer').append( '<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed' );
+ // add link to mailing list after closed button
+ // $( '#applycontainer').append( '<a class="apply-button" href="//www.ox.ac.uk/admissions/graduate/sign-up/">Register for email updates' );
+ // The buttons below are present in tables when the course has multiple streams
+$('a.apply-button-tabft').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+$('a.apply-button-tabpt').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+    }
+// End
+// Define function which replaces All apply buttons with closed (with studentship) 
+function remove_allapply() {
+$('a.apply-button-ft').css('display','none');
+$('a.apply-button-pt').css('display','none');
+$('a.apply-button-cont').css('display','none');
+
+ // The buttons below are present in tables when the course has multiple streams
+$('a.apply-button-tabft').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+$('a.apply-button-tabpt').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+    }
+// End
+// Define function which replaces FT apply buttons with closed (no studentship) 
+function replace_ftapply() {
+$('a.apply-button-ft').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed - Full Time');
+ // The buttons below are present in tables when the course has multiple streams
+$('a.apply-button-tabft').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+    }
+// End
+// Define function which replaces FT apply buttons with closed (with studentship) 
+function remove_ftapply() {
+$('a.apply-button-ft').css('display','none');
+ // The buttons below are present in tables when the course has multiple streams
+$('a.apply-button-tabft').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+    }
+// End
+// Define function which replaces PT apply buttons with closed (no studentship) 
+function replace_ptapply() {
+$('a.apply-button-pt').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed - Part Time');
+ // The buttons below are present in tables when the course has multiple streams
+$('a.apply-button-tabpt').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+    }
+// End
+// Define function which replaces PT apply buttons with closed (no studentship - 2yr MSc Energy Systems) 
+function replace_ptapply2yr() {
+$('a.apply-button-pt2yr').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed - PT 2Yr');
+    }
+// End
+// Define function which replaces PT apply buttons with closed (no studentship - 3yr MSc Energy Systems) 
+function replace_ptapply3yr() {
+$('a.apply-button-pt3yr').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed - PT 3Yr');
+    }
+// End
+// Define function which replaces PT apply buttons with closed (with studentship) 
+function remove_ptapply() {
+$('a.apply-button-pt').css('display','none');
+ // The buttons below are present in tables when the course has multiple streams
+$('a.apply-button-tabpt').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+    }
+// End
+// Define function which removes external apply buttons
+function remove_externalapply() {
+$('a.apply-button-external').replaceWith('<span style="padding:0.8em 1.2em;background-color:#A9A9A9;font-family:PT Sans,Helvetica Neue,Arial,Helvetica,sans-serif;font-size:0.88em;color:#fff;font-weight:400;text-transform:uppercase;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:none;text-decoration:none;display:inline-block;-webkit-appearance:none;margin:0.5em 0;margin-right:0.5em;padding-left:3.5em;background:url(/sites/default/themes/custom/oxweb/images/arrow-right@x2.png) 20px 16px no-repeat #A9A9A9;">Closed');
+    }
+// End
+// Define function to add studentship apply button
+function add_studentship() {
+  $( '#applycontainer').append( '<a class="apply-button" href="//www.ox.ac.uk/admissions/graduate/courses/courses-open-for-studentships#studentship-code">Apply for studentship' );
+  // Add anchor to link using the course code from the Key Facts table
+  var ccode =  $('#coursecode').find("td:eq(0)").html();
+   // Extract data from first td (always the full-time column) of coursecode row.
+if (ccode == null){
+    // Do nothing if no data has been extracted. This will leave the default URL
+}
+else {
+  var str = document.getElementById("applycontainer").innerHTML; 
+  var res = str.replace("studentship-code", ccode);
+  document.getElementById("applycontainer").innerHTML = res;
+}
+  // End of code that adds anchor to link
+    }
+// End
+
+// -----ACTIONS-----
+
+// Determine whether Studentship Status blocks (375,340,356) are displayed
+if ($('#block-block-375').length || $('#block-block-340').length ||  $('#block-block-356').length) {
+	// Studentship displayed
+		// Action if Closed Standard (264, 359), Not Yet Open (516), or Pending Funding Approval (452) blocks are displayed
+		if ($('#block-block-264').length || $('#block-block-259').length  || $('#block-block-516').length || $('#block-block-452').length) {
+		remove_allapply()
+		}
+		// Action if Closed Full Time (268, 243) or Not Yet Open FT (345) blocks are displayed
+		if ($('#block-block-268').length || $('#block-block-243').length || $('#block-block-345').length) {
+		remove_ftapply()
+		}
+		// Action if Closed Part Time (265, 261) or Not Yet Open PT (323)  blocks are displayed
+		if ($('#block-block-265').length || $('#block-block-261').length || $('#block-block-323').length) {
+		remove_ptapply()
+		}
+		add_studentship() 
+	// End
+} else {
+	// Studentship not displayed
+		// Action if Closed Standard (264, 359), Not Yet Open (516), or Pending Funding Approval (452) blocks are displayed
+		if ($('#block-block-264').length || $('#block-block-259').length  || $('#block-block-516').length || $('#block-block-452').length) {
+		replace_allapply()
+		}
+		// Action if Closed Full Time (268, 243) or Not Yet Open FT (345) blocks are displayed
+		if ($('#block-block-268').length || $('#block-block-243').length || $('#block-block-345').length) {
+		replace_ftapply()
+		}
+		// Action if Closed Part Time (265, 261) or Not Yet Open PT (323)  blocks are displayed
+		if ($('#block-block-265').length || $('#block-block-261').length || $('#block-block-323').length) {
+		replace_ptapply()
+		}
+		// Action if Closed Part Time 2yr MSc Energy Systems (451) block displayed
+		if ($('#block-block-451').length) {
+		replace_ptapply2yr()
+		}
+		// Action if Closed Part Time 3yr MSc Energy Systems (469) block displayed
+		if ($('#block-block-469').length) {
+		replace_ptapply3yr()
+		}
+		// Action if Closed External (514) block displayed
+		if ($('#block-block-514').length) {
+		remove_externalapply()
+		}
+	// End
+}
+// End of actions
+// End of dynamic button control
+});
+
+//--><!]]>
+Share This
+Tweet
+Share on Facebook
+Share on LinkedIn
+Share on Reddit
+<!--//--><![CDATA[// ><!--
+(function ($) {
+  var fblink = $('#custom-fb-button-responsive a').attr('href'); 
+  $('#custom-fb-button-responsive a').attr('href', fblink + '?u=' + encodeURIComponent(location.href));
+  var linkedinlink = $('#custom-linkedin-button-responsive a').attr('href'); 
+  $('#custom-linkedin-button-responsive a').attr('href', linkedinlink + '&url=' + encodeURIComponent(location.href) + '&title=' + encodeURIComponent(document.title));
+}(jQuery));
+//--><!]]>
+Connect with us
+Podcasts
+YouTube
+Twitter
+Facebook
+TikTok
+LinkedIn
+Weibo
+Instagram
+Medium
+The Conversation
+Information About
+Oxford University
+Strategic plan
+Oxford's research
+Course fees and funding
+Libraries
+Museums and collections
+Open days
+Oxford glossary
+Freedom of speech statement
+Statement on Modern Slavery
+Data privacy / GDPR
+Sport at Oxford
+Conferences at Oxford
+牛津大学
+Information For
+Prospective undergraduates
+Prospective graduate students
+Prospective Continuing Education students
+Prospective online/distance learning students
+Current Oxford students
+Current Oxford staff
+Oxford residents/Community
+Visitors/Tourists
+Media
+Alumni
+Teachers
+Parliamentarians
+Businesses/Partnerships
+Quick Links
+Any questions?
+Jobs and vacancies
+Term dates
+Map
+Nexus365 email
+Giving to Oxford
+©  University of Oxford 2025
+Contact us
+About this site
+Legal
+Privacy policy
+Cookie settings
+Accessibility Statement
+<!--//--><![CDATA[// ><!--
+
+  _bizo_data_partner_id = "9293";
+
+//--><!]]>
+<!--//--><![CDATA[// ><!--
+
+(function() {
+  var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";
+  b.async = true;
+  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+  s.parentNode.insertBefore(b, s);
+})();
+
+//--><!]]>
