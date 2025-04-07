@@ -11,10 +11,27 @@ from crawl4ai.deep_crawling.filters import (
 )
 from crawl4ai.deep_crawling.scorers import KeywordRelevanceScorer
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
+from crawl4ai.content_filter_strategy import PruningContentFilter, BM25ContentFilter
 
 async def run_graduate_program_crawler():
-    # --- Markdown generator setup ---
+    # --- Choose ONE content filter ---
+    USE_BM25 = False  # Change to True to use BM25ContentFilter
+
+    if USE_BM25:
+        content_filter = BM25ContentFilter(
+            user_query="graduate master program courses curriculum degree syllabus",
+            bm25_threshold=1.1
+        )
+    else:
+        content_filter = PruningContentFilter(
+            threshold=0.4,
+            threshold_type="dynamic",
+            min_word_threshold=5
+        )
+
+    # --- Markdown generator with content filter ---
     md_generator = DefaultMarkdownGenerator(
+        content_filter=content_filter,
         options={
             "ignore_links": True,
             "escape_html": False,
@@ -25,7 +42,7 @@ async def run_graduate_program_crawler():
     # --- Filtering setup ---
     filter_chain = FilterChain([
         DomainFilter(
-            allowed_domains=["cam.ac.uk"],  # Change to target domain
+            allowed_domains=["cam.ac.uk"],
             blocked_domains=[]
         ),
         URLPatternFilter(patterns=[
@@ -33,6 +50,7 @@ async def run_graduate_program_crawler():
             "*masters*",
             "*msc*",
             "*postgraduate*",
+            "*academics*",
             "*program*",
             "*degree*",
             "*course*",
@@ -46,7 +64,7 @@ async def run_graduate_program_crawler():
         keywords=[
             "graduate", "master", "program", "course", "curriculum",
             "degree", "credit hours", "duration", "admission", "requirements",
-            "modules", "syllabus", "track", "thesis", "non-thesis"
+            "modules", "syllabus", "track", "thesis", "non-thesis","academics",
         ],
         weight=0.85
     )
@@ -60,14 +78,14 @@ async def run_graduate_program_crawler():
             url_scorer=keyword_scorer
         ),
         scraping_strategy=LXMLWebScrapingStrategy(),
-        markdown_generator=md_generator,  # This enables .markdown in result
+        markdown_generator=md_generator,
         stream=True,
         verbose=True
     )
 
-    # --- Run the crawler and save Markdown ---
+    # --- Run and save results ---
     results = []
-    with open("cambridge_graduate_programs_markdown.jsonl", "w", encoding="utf-8") as outfile:
+    with open("cambridge_2_graduate_programs_markdown.jsonl", "w", encoding="utf-8") as outfile:
         async with AsyncWebCrawler() as crawler:
             async for result in await crawler.arun("https://www.cam.ac.uk/", config=config):
                 score = result.metadata.get("score", 0)
@@ -76,12 +94,13 @@ async def run_graduate_program_crawler():
 
                 results.append(result)
 
-                # Save as Markdown
+                # Save filtered markdown output (fit_markdown)
                 json.dump({
                     "url": result.url,
                     "depth": depth,
                     "score": score,
-                    "markdown": result.markdown  # Not content — markdown
+                    "markdown": result.markdown.fit_markdown,
+                    "raw_html_excerpt": result.markdown.fit_html[:300]  # Optional: Save HTML snippet
                 }, outfile)
                 outfile.write("\n")
 
@@ -90,7 +109,6 @@ async def run_graduate_program_crawler():
     avg_score = sum(r.metadata.get("score", 0) for r in results) / len(results)
     print(f"📊 Average score: {avg_score:.2f}")
 
-    # Group by depth
     depth_counts = {}
     for result in results:
         d = result.metadata.get("depth", 0)
