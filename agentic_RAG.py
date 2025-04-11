@@ -12,6 +12,7 @@ from supabase import create_client, Client
 from pydantic_ai import Agent, RunContext
 from pydantic_ai.models.openai import OpenAIModel
 import re
+import requests
 
 # --- Load Environment Variables ---
 load_dotenv()
@@ -65,21 +66,29 @@ async def get_embedding(text: str, openai_client: AsyncOpenAI) -> List[float]:
         return [0.0] * 1536
 
 # --- Tool: Retrieve Relevant Info from Supabase ---
-@university_agent.tool
+@university_agent.tool(name="retrieve_university_info_tool")
 async def retrieve_university_info(ctx: RunContext[UniversityAIDeps], query: str) -> str:
     print("[LOG] Retrieving relevant university chunks from Supabase...")
 
     embedding = await get_embedding(query, ctx.deps.openai_client)
 
-    # Attempt to extract university name from query (simple keyword match)
-    # Example assumes university name is mentioned explicitly like "about NUST"
-    university_keywords = ["nust", "fast", "lums", "comsats", "air", "iba", "giki","stanford","oxford", "mit", "caltech", "harvard", "cambridge", "berkeley", "princeton"]
+    # Get all available university names from the DB
+    result_uni = ctx.deps.supabase.from_("site_pages").select("university_name").execute()
+    available_universities = set()
+    for row in result_uni.data or []:
+        uni = row.get("university_name")
+        if uni:
+            available_universities.add(uni.lower())
+
     matched_uni = next(
-        (uni for uni in university_keywords if re.search(rf"\b{re.escape(uni)}\b", query.lower())),
-    None
+        (uni for uni in available_universities if re.search(rf"\b{re.escape(uni)}\b", query.lower())),
+        None
     )
+
     if not matched_uni:
         return "Please mention a specific university in your query (e.g., NUST, FAST, LUMS)."
+
+    print(f"[LOG] Matched university in query: {matched_uni}")
 
     try:
         result = ctx.deps.supabase.rpc(
@@ -91,26 +100,14 @@ async def retrieve_university_info(ctx: RunContext[UniversityAIDeps], query: str
             }
         ).execute()
 
-        print(f"[LOG] Supabase RPC call completed. Matching chunks: {len(result.data) if result.data else 0}")
-
         if not result.data:
             print(f"[LOG] No Supabase results found. Falling back to Tavily.")
             return await tavily_web_search(ctx, query)
 
-        # Filter manually by university name in URL (post-hoc since filter may not work in RPC)
-        filtered = [
-            doc for doc in result.data
-            if "metadata" in doc and doc["metadata"].get("university_name", "").lower() == matched_uni.lower()
-        ]
-
-        if not filtered:
-            print(f"[LOG] No relevant filtered chunks. Falling back to Tavily.")
-            return await tavily_web_search(ctx, query)
-
-        print(f"[LOG] {len(filtered)} chunks matched {matched_uni.upper()}.")
+        print(f"[LOG] {len(result.data)} chunks matched for {matched_uni.upper()}.")
 
         content = []
-        for doc in filtered:
+        for doc in result.data:
             content.append(f"# {doc['title']}\n\n{doc['summary'] or doc['content'][:300]}...")
 
         return "\n\n---\n\n".join(content)
@@ -120,13 +117,11 @@ async def retrieve_university_info(ctx: RunContext[UniversityAIDeps], query: str
         return "There was an error fetching data. Please try again."
 
 # --- Tool: List All Available Universities ---
-@university_agent.tool
+@university_agent.tool(name="list_universities_tool")
 async def list_universities(ctx: RunContext[UniversityAIDeps]) -> List[str]:
     print("[LOG] Fetching available universities (from university_name column)...")
     try:
-        result = ctx.deps.supabase.from_("site_pages") \
-            .select("university_name") \
-            .execute()
+        result = ctx.deps.supabase.from_("site_pages").select("university_name").execute()
 
         if not result.data:
             return []
@@ -143,23 +138,22 @@ async def list_universities(ctx: RunContext[UniversityAIDeps]) -> List[str]:
         print(f"[ERROR] Failed to list universities: {e}")
         return []
 
-
-@university_agent.tool
+# --- Tool: Tavily Web Search ---
+@university_agent.tool(name="tavily_web_search_tool")
 async def tavily_web_search(ctx: RunContext[UniversityAIDeps], query: str) -> str:
-    import requests
-
     print("[LOG] Calling Tavily for web search...")
+
     headers = {
         "Authorization": f"Bearer {TAVILY_API_KEY}",
         "Content-Type": "application/json"
     }
     payload = {
         "query": query,
-        "search_depth": "basic",
+        "search_depth": "advanced",
         "chunks_per_source": 3,
         "max_results": 1,
         "days": 7,
-        "include_answer": True,
+        "include_answer": "advanced",
         "include_raw_content": False,
         "include_images": False,
         "include_image_descriptions": False,
@@ -179,7 +173,6 @@ async def tavily_web_search(ctx: RunContext[UniversityAIDeps], query: str) -> st
 
         print(f"[LOG] Tavily search completed. Answer: {answer[:60]}...")
 
-        # Generate and store embedding
         embedding = await get_embedding(answer, ctx.deps.openai_client)
 
         insert_data = {
@@ -202,8 +195,7 @@ async def tavily_web_search(ctx: RunContext[UniversityAIDeps], query: str) -> st
         print(f"[ERROR] Tavily web search failed: {e}")
         return "There was an error retrieving the latest web result. Please try again later."
 
-
-# --- Main Runner ---
+# --- Main Runner (for manual testing) ---
 async def main():
     print("[LOG] Starting University Agent...")
     ctx = UniversityAIDeps(supabase=supabase, openai_client=openai_client)
@@ -215,6 +207,5 @@ async def main():
     print("\n[RESULT]")
     print(response)
 
-# --- Run if main ---
 if __name__ == "__main__":
     asyncio.run(main())
